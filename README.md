@@ -1,2 +1,2 @@
 # hello-world
-First Program to learn GitHub
+First repository to learn GitHub Platform
